@@ -1,10 +1,10 @@
 module jt1078
 
-go 1.24.0
+go 1.23.8
 
 require (
 	github.com/cuteLittleDevil/m7s-jt1078/v5 v5.6.0
-	m7s.live/v5 v5.0.1
+	m7s.live/v5 v5.0.2
 )
 
 require (
